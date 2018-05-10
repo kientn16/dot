@@ -59,7 +59,7 @@ Plugin 'jez/vim-ispc'
 Plugin 'kchmck/vim-coffee-script'
 
 " ----- Syntax plugins YCM ------------------------------------------------
-Plugin 'Valloric/YouCompleteMe'
+"Plugin 'Valloric/YouCompleteMe'
 let g:ycm_keep_logfiles = 1
 let g:ycm_log_level = 'debug'
 "ruby
