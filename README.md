@@ -29,6 +29,9 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 read and install
 ```
 https://github.com/VundleVim/Vundle.vim
+OR
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
 ```
 
 install plugin with vundle
