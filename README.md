@@ -34,18 +34,16 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 ```
 
-install plugin with vundle
+## Install exuberant-ctags
+```
+sudo apt-get install exuberant-ctags
+```
+
+## Install plugin with vundle
 ```
 vim .vimrc
 :PluginInstall
 ```
 
-#Setup YouCompleteMe
-
-comapre clang YCM
-```
-cd ~/.vim/bundle/YouCompleteMe
-./install.py --clang-completer
-```
 
 
